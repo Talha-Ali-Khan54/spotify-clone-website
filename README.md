@@ -1,16 +1,26 @@
-# Spotify Clone (Frontend)
+# Spotify Clone 🎵
 
-A learning project: a Spotify-like web player with play/pause, next/previous, album view, and a sidebar for downloaded songs.
+A front-end practice project inspired by Spotify’s web player.  
+Built to strengthen my HTML, CSS, and JavaScript skills while learning how to structure and style a functional music player interface.
 
-## Features
-- Play/pause and next/previous controls
-- Albums with track lists
-- Clean UI with HTML/CSS/JS
+---
 
-## Tech Stack
-- HTML5, CSS3, JavaScript (Vanilla)
+## 📌 Features
+- **Music Controls** – Play, pause, next, and previous track functionality
+- **Album View** – Browse albums and view track lists
+- **Sidebar** – Quick access to downloaded songs
+- **Responsive Layout** – Adjusts for different screen sizes
 
-## Structure
+---
+
+## 🛠 Tech Stack
+- **HTML5** – Structure
+- **CSS3** – Styling & layout
+- **JavaScript (Vanilla)** – Player logic and interactivity
+
+---
+
+## 📂 Project Structure
 .
 ├─ index.html
 ├─ css/
@@ -20,9 +30,11 @@ A learning project: a Spotify-like web player with play/pause, next/previous, al
 │  ├─ info.json
 │  └─ audio/ (excluded or sample clips)
 
-## How to Run
-1. Download or clone the repo
-2. Open `index.html` in your browser (or use a live server extension)
-
 ## Notes
 - Audio files are excluded/reduced to small samples to avoid copyright issues.
+
+## 💡 Learning Goals
+This project helped me:
+- Understand DOM manipulation in JavaScript
+- Practice responsive design techniques
+- Work with JSON data for track information
